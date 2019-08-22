@@ -6,4 +6,6 @@ I do not own the content of those notes, i only copied the parts that looked use
 References:
 
 https://sushant747.gitbooks.io/total-oscp-guide
+
+
 https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
