@@ -3091,3 +3091,10 @@ References
 
 http://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-4-creating-custom-wordlist-with-crunch-0156817/
 
+Windows Pre-Compiled Binaries
+===================================================================
+
+Here is a repository of pre compiled binaries to use for exploit, instead of compile you can download and execute it.
+
+`https://github.com/abatchy17/WindowsExploits`
+
