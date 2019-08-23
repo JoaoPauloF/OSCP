@@ -1761,6 +1761,8 @@ Client, Web and Password Attacks
         ```
     
     -   There is a tool called Kadimus to test LFI too
+    
+    -	dotdotpwn is another tool to test for LFI
 
     -   LFI - Download file with base 64 encoding  
         [*http://$ip/index.php?page=php://filter/convert.base64-encode/resource=admin.php*](about:blank)
