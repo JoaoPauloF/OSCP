@@ -2779,6 +2779,7 @@ Common web-services
 	Drupal
 
 		droopescan
+		After log in, go to modules -> PHP Filter to enable php code execution ( Web Pages ) 
 	Elastix
 
 		Full of vulnerabilities. The old versions at least.
